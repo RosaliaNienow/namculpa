@@ -1,0 +1,30 @@
+{
+  "name": "namculpa",
+  "version": "1.0.0",
+  "description": "linked list implementation in javascript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RosaliaNienow/namculpa.git"
+  },
+  "keywords": [
+    "et",
+    "consectetur",
+    "maxime"
+  ],
+  "author": "ElseSpencer",
+  "license": "MIT",
+  "homepage": "https://github.com/RosaliaNienow/namculpa.git",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "grunt-eslint": "^20.2.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-istanbul": "^5.0.2",
+    "grunt-mocha-test": "^0.13.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.0.0"
+  }
+}
